@@ -1,0 +1,5 @@
+WORK
+KING
+ROW
+RING 
+KNOW
